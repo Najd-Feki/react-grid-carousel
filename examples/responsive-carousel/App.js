@@ -58,7 +58,7 @@ const Card = styled.div`
   margin: 2px;
   border-radius: 6px;
   border: 1px solid #eaeaea;
-  overflow: hidden;
+  overflow: auto;
   cursor: pointer;
   transition: box-shadow 0.25s;
 
